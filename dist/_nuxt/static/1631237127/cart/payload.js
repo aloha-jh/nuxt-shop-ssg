@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/cart", {data:[{}],fetch:{"data-v-67beb8e6:0":{}},mutations:[]});
